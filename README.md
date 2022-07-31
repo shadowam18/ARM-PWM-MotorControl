@@ -1,6 +1,6 @@
 # ARM-PWM-MotorControl
 
-## In this project with the help of STM32 Smart V2.0 and L298N driver and a rotor,a motor controller setup is built by which we can control the speed of the spinning.
+## In this project with the help of STM32 Smart V2.0, L298N driver and a rotor, a motor controller setup is built by which we can control the speed of the spinning.
 
 In this project, we'll take advantage of PWM and duty cycle concept in order to increase or decrease the average voltage applied to the motor's terminals.
 We control the speed via two switches,one for lowering the speed and one for raising it.
